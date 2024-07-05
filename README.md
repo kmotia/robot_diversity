@@ -17,4 +17,4 @@ Using evolutionary robotics as a medium, we aim to determine if neurological and
 - playbackSwarms.py
 
 # Analyze data 
-- Use the analysis_case1b.py notebook
+- Use the analysis_case1b.py notebook. Specify new file names if needed.
